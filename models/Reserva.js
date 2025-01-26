@@ -1,5 +1,3 @@
-// models/Reserva.js
-import { type } from '@testing-library/user-event/dist/type';
 import mongoose from 'mongoose';
 
 const reservaSchema = new mongoose.Schema({
